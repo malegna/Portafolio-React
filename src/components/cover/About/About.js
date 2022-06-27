@@ -15,7 +15,7 @@ grado de compromiso, trabajo en equipo y en búsqueda de nuevos retos.</p> <br/>
 </br>Javascript, React, Redux, NodeJS, Express, Css, Html, Postgres, Sequelize, Figma, Scrum, Git, GitHub. </p>
 <br/>
 <p> <b>Me encanta aprender, por eso actualmente estoy aprendiendo: </b><br>
-</br>React Native, Typescript. </p>
+</br>React Native y Typescript. </p>
         </div>
         <div className='about-img'>
             <img src={Angela} alt='about'/>
