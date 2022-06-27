@@ -107,4 +107,7 @@
     .slide-container {
         width: 100%;
     }
+    .slide-desc {
+        height: 80%;
+    }
 }
